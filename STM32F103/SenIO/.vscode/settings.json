@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "cstdint": "c"
+    },
+    "cortex-debug.armToolchainPath": "C:\\MSYS64\\MINGW64\\BIN"
+}
